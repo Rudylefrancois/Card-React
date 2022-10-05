@@ -2,43 +2,35 @@ import img1 from "../../images/img1.jpg";
 import img2 from "../../images/img2.jpg";
 import img3 from "../../images/img3.jpg";
 import img4 from "../../images/img4.jpg";
-import img5 from "../../images/img5.jpg";
 
 const dataCard = [
     {
         id: 1,
-        title: 'lorem',
+        title: 'Lake',
         src: img1,
-        subtitle: 'Lorem, ipsum dolor',
-        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, nam',
+        subtitle: "Boat on water",
+        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
     },
     {
-        id: 1,
-        title: 'lorem',
+        id: 2,
+        title: 'Nature',
         src: img2,
-        subtitle: 'Lorem, ipsum dolor',
-        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, nam',
+        subtitle: "Beautiful nature",
+        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit reprehenderit quia tempora laboriosam nesciunt? Accusantium ex excepturi molestias placeat. Sit, expedita eum? Ex, eaque deserunt?',
     },
     {
-        id: 1,
-        title: 'lorem',
+        id: 3,
+        title: 'Mountain ',
         src: img3,
-        subtitle: 'Lorem, ipsum dolor',
+        subtitle: "Relaxing mountains",
         text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, nam',
     },
     {
-        id: 1,
-        title: 'lorem',
+        id: 4,
+        title: 'Sunset',
         src: img4,
-        subtitle: 'Lorem, ipsum dolor',
-        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, nam',
-    },
-    {
-        id: 1,
-        title: 'lorem',
-        src: img5,
-        subtitle: 'Lorem, ipsum dolor',
-        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, nam',
+        subtitle: "The sky is dancing",
+        text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. herde fered lis gred some one kid just month',
     },
 ];
 

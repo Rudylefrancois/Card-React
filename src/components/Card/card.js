@@ -8,11 +8,11 @@ function Card() {
     <div className="card">
         {dataCard.map((card, index) => {
             return (
-            <div>
+            <div className="card-content">
+                <img className="card-img" src={card.src} alt={card.title} />
                 <h1 className="card-title">{card.title}</h1>
-                <img className="card-img" src={card.src} alt="image" />
                 <h2 className="card-subtitle">{card.subtitle}</h2>
-                <p className="crad-text">{card.text}</p>    
+                <p className="card-text">{card.text}</p>    
                 <button className="card-btn">En savoir plus</button> 
             </div>
             )
